@@ -37,11 +37,10 @@
 
 ---
 
-## GitHub Activity:
+## 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dan4iek&show_icons=true&theme=dark&hide_border=true&locale=en&cache_seconds=1800" alt="GitHub Stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan4iek&layout=compact&theme=dark&hide_border=true&hide=html,css&cache_seconds=1800" alt="Top Languages" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Dan4iek&theme=dark&hide_border=true&locale=en" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
