@@ -13,6 +13,7 @@
 
 ## About me:
 **Education:** Belarusian State University, Faculty of Applied Mathematics and Mechanics, 2028. 
+
 **Major:** Mathematician | Programmer
 
 ---
