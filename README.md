@@ -36,8 +36,13 @@
 </div>
 
 ---
+---
 
-## 📈 GitHub Activity:
+## 📊 GitHub Stats:
 
-![Dan4iek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dan4iek&theme=github-dark&hide_border=true&area=true)
+<div align="center">
+  
+![Dan4iek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan4iek&show_icons=true&count_private=true&hide_title=true&hide=prs,issues&theme=radical&border_color=ff00ff&bg_color=30,0d0d0d,1a1a2e&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&border_radius=15)
+
+</div>
 </p>
