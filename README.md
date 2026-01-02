@@ -38,11 +38,13 @@
 ---
 ---
 
-## 📊 GitHub Stats:
+---
+
+## 🏆 GitHub Trophies:
 
 <div align="center">
   
-![Dan4iek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan4iek&show_icons=true&count_private=true&hide_title=true&hide=prs,issues&theme=radical&border_color=ff00ff&bg_color=30,0d0d0d,1a1a2e&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&border_radius=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Dan4iek&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10)
 
 </div>
 </p>
