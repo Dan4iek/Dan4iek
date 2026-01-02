@@ -35,16 +35,4 @@
   <img width="12" />
 </div>
 
----
----
-
----
-
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Dan4iek&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10)
-
-</div>
 </p>
