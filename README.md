@@ -37,12 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 GitHub Activity:
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dan4iek&theme=dark&hide_border=true&locale=en" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dan4iek&style=flat-square&color=blue" alt="Profile Views"/>
+![Dan4iek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dan4iek&theme=github-dark&hide_border=true&area=true)
 </p>
